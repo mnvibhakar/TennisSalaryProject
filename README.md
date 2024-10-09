@@ -1,2 +1,3 @@
-# dsci-100-project_template
-Template project repository for DSCI-100
+# Tennis Salary Project
+Project completed as part of a group project for the UBC DSCI 100 class
+
